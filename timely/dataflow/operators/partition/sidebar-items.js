@@ -1,1 +1,0 @@
-initSidebarItems({"trait":[["Partition","Partition a stream of records into multiple streams."]]});

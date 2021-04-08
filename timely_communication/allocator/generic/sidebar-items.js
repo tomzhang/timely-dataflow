@@ -1,1 +1,0 @@
-initSidebarItems({"enum":[["Generic","Enumerates known implementors of `Allocate`. Passes trait method calls on to members."]]});

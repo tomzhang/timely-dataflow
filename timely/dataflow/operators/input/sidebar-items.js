@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["Handle","A handle to an input `Stream`, used to introduce data to a timely dataflow computation."]],"trait":[["Input","Create a new `Stream` and `Handle` through which to supply input."]]});

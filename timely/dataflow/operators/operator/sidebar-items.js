@@ -1,1 +1,0 @@
-initSidebarItems({"trait":[["Operator","Methods to construct generic streaming and blocking operators."]]});

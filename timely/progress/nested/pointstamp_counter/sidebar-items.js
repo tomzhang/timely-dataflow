@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["PointstampCounter","Represents changes to pointstamps before and after transmission along a scope's topology."]]});

@@ -1,1 +1,0 @@
-initSidebarItems({"mod":[["binary",""],["generic","A generic allocator, wrapping known implementors of `Allocate`."],["process",""],["thread",""]],"trait":[["Allocate",""]]});

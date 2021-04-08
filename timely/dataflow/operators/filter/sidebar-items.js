@@ -1,1 +1,0 @@
-initSidebarItems({"trait":[["Filter","Extension trait for filtering."]]});

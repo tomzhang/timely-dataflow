@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["Product","A nested pair of timestamps, one outer and one inner."]]});

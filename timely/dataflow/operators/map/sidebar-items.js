@@ -1,1 +1,0 @@
-initSidebarItems({"trait":[["Map","Extension trait for `Stream`."]]});

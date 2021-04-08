@@ -1,1 +1,0 @@
-initSidebarItems({"trait":[["Accumulate","Accumulates records within a timestamp."]]});

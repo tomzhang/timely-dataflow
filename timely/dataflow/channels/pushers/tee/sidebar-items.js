@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["Tee","Wraps a shared list of `Box<Push>` to forward pushes to. Owned by `Stream`."],["TeeHelper","A shared list of `Box<Push>` used to add `Push` implementors."]]});

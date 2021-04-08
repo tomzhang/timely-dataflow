@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["Exchange","Distributes records among target pushees according to a distribution function."]]});

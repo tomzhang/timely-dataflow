@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["Stream","Abstraction of a stream of `D: Data` records timestamped with `S::Timestamp`."]]});
